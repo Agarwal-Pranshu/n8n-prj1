@@ -11,3 +11,4 @@ Now the agent is triggered via a chat message, and the software processes the qu
 
 This is how the AI agent executes the command. It is connected with the data in a live format and hence can also perform CRUD operations. 
 In my further projects, I will add analysis and visualisation tools to produce better insights.
+The image above contains the sample workflow.
